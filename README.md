@@ -26,4 +26,4 @@ This repository contains a simple implementation of Inter-Integrated Circuit (I2
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/therealvoric/C-ATMega644P-LM75-TempSens/License) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/therealvoric/C-ATMega644P-LM75-TempSens/blob/main/LICENSE) file for details.
